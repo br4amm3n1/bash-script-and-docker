@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Today is the:"
-date
+echo -e "Author: Albert Minkh\nTitle: FileInfo\nDescription: Display information about an existing file."
